@@ -1,0 +1,4 @@
+.terraform
+build.plan
+.idea
+out
